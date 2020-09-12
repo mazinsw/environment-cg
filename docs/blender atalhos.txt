@@ -1,0 +1,5 @@
+juntar mesh - Ctrl + J
+selecionar/deselecionar tudo - A
+selecionar - B
+Slice cut - Crtl + R
+Criar mesh da seleção - P
